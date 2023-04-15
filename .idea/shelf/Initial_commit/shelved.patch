@@ -1,0 +1,20 @@
+Index: src/Inputs.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>import java.util.Scanner;\r\n\r\npublic class Inputs {\r\n    public static void main(String[] args) {\r\n        Scanner input = new Scanner(System.in);\r\n\r\n    }\r\n}\r\n
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/Inputs.java b/src/Inputs.java
+--- a/src/Inputs.java	(revision 245915cb3ebc4275972400a2ccea57b2f3b88b34)
++++ b/src/Inputs.java	(date 1681560046085)
+@@ -3,6 +3,8 @@
+ public class Inputs {
+     public static void main(String[] args) {
+         Scanner input = new Scanner(System.in);
+-
++        System.out.print("Please Enter Some Input: ");
++        int rollno = input.nextInt();
++        System.out.println("Your roll number is "+ rollno);
+     }
+ }
