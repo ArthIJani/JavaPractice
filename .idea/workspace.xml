@@ -2,11 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="77c0736c-c139-402d-917c-b89dd4769ade" name="Changes" comment="Initial commit">
-      <change afterPath="$PROJECT_DIR$/src/Basics.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TypeCasting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Assignment1/Q1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Assignment1/Q2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Assignment1/Q3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Assignment1/Q4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Assignment1/Q5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Assignment1/Q6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Assignment1/Q7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Assignment1/Q8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Assignment1/Q9.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Inputs.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Inputs.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,49 +47,79 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Basics">
-    <configuration name="Basics" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Basics" />
+  <component name="RunManager" selected="Application.Q9">
+    <configuration name="Q5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Assignment1.Q5" />
       <module name="JavaPractice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Assignment1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Inputs" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Inputs" />
+    <configuration name="Q6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Assignment1.Q6" />
       <module name="JavaPractice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Assignment1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
+    <configuration name="Q7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Assignment1.Q7" />
       <module name="JavaPractice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Assignment1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Sum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Sum" />
+    <configuration name="Q8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Assignment1.Q8" />
       <module name="JavaPractice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Assignment1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TypeCasting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TypeCasting" />
+    <configuration name="Q9" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Assignment1.Q9" />
       <module name="JavaPractice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Assignment1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Basics" />
-        <item itemvalue="Application.TypeCasting" />
-        <item itemvalue="Application.Sum" />
-        <item itemvalue="Application.Inputs" />
-        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Q9" />
+        <item itemvalue="Application.Q8" />
+        <item itemvalue="Application.Q7" />
+        <item itemvalue="Application.Q6" />
+        <item itemvalue="Application.Q5" />
       </list>
     </recent_temporary>
   </component>
@@ -118,7 +153,14 @@
       <option name="project" value="LOCAL" />
       <updated>1681560291660</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Initial commit">
+      <created>1681563634275</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1681563634275</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
