@@ -1,5 +1,6 @@
 Java Practice Questions
-<br>
+<br><br>
+<pre>
 => Assignment-1<br>
       1) Write a program to print whether a number is even or odd, also take input from the user.<br>
       2) Take name as input and print a greeting message for that particular name.<br>
@@ -12,3 +13,4 @@ Java Practice Questions
       9) To find Armstrong Number between two given number.<br>
       <br>
  => Assignment-2
+</pre>
