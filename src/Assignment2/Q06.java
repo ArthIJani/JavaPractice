@@ -2,7 +2,7 @@ package Assignment2;
 
 import java.util.Scanner;
 
-public class Q6 {
+public class Q06 {
     public static void main(String[] args) {
         Scanner s1 = new Scanner(System.in);
         //p and q are diagonals

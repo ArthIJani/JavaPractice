@@ -1,7 +1,7 @@
 package Assignment2;
 import java.util.Scanner;
 
-public class Q5 {
+public class Q05 {
     public static void main(String[] args) {
         Scanner s1 = new Scanner(System.in);
         int base = s1.nextInt();

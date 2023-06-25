@@ -2,7 +2,7 @@ package Assignment2;
 
 import java.util.Scanner;
 
-public class Q9 {
+public class Q09 {
     public static void main(String[] args) {
         Scanner s1 = new Scanner(System.in);
         int side = s1.nextInt();
