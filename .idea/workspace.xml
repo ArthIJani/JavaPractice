@@ -2,15 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="77c0736c-c139-402d-917c-b89dd4769ade" name="Changes" comment="Initial commit">
-      <change afterPath="$PROJECT_DIR$/src/Assignment2/Q10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Assignment2/Q2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Assignment2/Q3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Assignment2/Q4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Assignment2/Q5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Assignment2/Q6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Assignment2/Q7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Assignment2/Q8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Assignment2/Q9.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Assignment2/Q11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Assignment2/Q12.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Assignment2/Q13.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Assignment2/Q14.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Assignment2/Q15.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -47,9 +43,9 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Q10">
-    <configuration name="Q10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Assignment2.Q10" />
+  <component name="RunManager" selected="Application.Q15">
+    <configuration name="Q11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Assignment2.Q11" />
       <module name="JavaPractice" />
       <extension name="coverage">
         <pattern>
@@ -61,8 +57,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Q6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Assignment2.Q6" />
+    <configuration name="Q12" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Assignment2.Q12" />
       <module name="JavaPractice" />
       <extension name="coverage">
         <pattern>
@@ -74,8 +70,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Q7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Assignment2.Q7" />
+    <configuration name="Q13" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Assignment2.Q13" />
       <module name="JavaPractice" />
       <extension name="coverage">
         <pattern>
@@ -87,8 +83,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Q8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Assignment2.Q8" />
+    <configuration name="Q14" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Assignment2.Q14" />
       <module name="JavaPractice" />
       <extension name="coverage">
         <pattern>
@@ -100,8 +96,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Q9" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Assignment2.Q9" />
+    <configuration name="Q15" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Assignment2.Q15" />
       <module name="JavaPractice" />
       <extension name="coverage">
         <pattern>
@@ -115,11 +111,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Q10" />
-        <item itemvalue="Application.Q9" />
-        <item itemvalue="Application.Q8" />
-        <item itemvalue="Application.Q7" />
-        <item itemvalue="Application.Q6" />
+        <item itemvalue="Application.Q15" />
+        <item itemvalue="Application.Q14" />
+        <item itemvalue="Application.Q13" />
+        <item itemvalue="Application.Q12" />
+        <item itemvalue="Application.Q11" />
       </list>
     </recent_temporary>
   </component>
@@ -174,7 +170,21 @@
       <option name="project" value="LOCAL" />
       <updated>1687671156580</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Initial commit">
+      <created>1687673985658</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1687673985658</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Initial commit">
+      <created>1687674186286</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1687674186286</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
