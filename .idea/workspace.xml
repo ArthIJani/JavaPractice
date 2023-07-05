@@ -38,11 +38,11 @@
 }</component>
   <component name="RunManager" selected="Application.Q1">
     <configuration name="Q1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Assigment3_Functions.Q1" />
+      <option name="MAIN_CLASS_NAME" value="Assignment3_Functions.Q1" />
       <module name="JavaPractice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Assigment3_Functions.*" />
+          <option name="PATTERN" value="Assignment3_Functions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
